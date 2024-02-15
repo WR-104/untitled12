@@ -1,0 +1,17 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÒÂ–8¹ã±ÑÚ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¤Î÷8¹ã±ÑÚ1
+v
+java:S1488>"YImmediately return this expression instead of assigning it to the temporary variable "s".(Éô±Ä8ºã±ÑÚ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ8¼ã±ÑÚ1
+7
+java:S1220""Move this file to a named package.8½ã±ÑÚ1
+G
+java:S1659"%Declare "number2" on a separate line.(§šşÿÿÿÿ8 ç±ÑÚ1
+G	java:S106"+Replace this use of System.out by a logger.(ë¨¸·8¸ç±ÑÚ1
+L	java:S106*"+Replace this use of System.out by a logger.(ºÃ«Åøÿÿÿÿ8Àç±ÑÚ1
+L	java:S106,"+Replace this use of System.out by a logger.( Ğæøÿÿÿÿ8Áç±ÑÚ1
+L	java:S1061"+Replace this use of System.out by a logger.(¦¼šúÿÿÿÿ8Ãç±ÑÚ1
+L	java:S1062"+Replace this use of System.out by a logger.(œŠ…üÿÿÿÿ8Äç±ÑÚ1
+L	java:S106p"+Replace this use of System.out by a logger.(²àéÁüÿÿÿÿ8Ôç±ÑÚ1
+L	java:S106q"+Replace this use of System.out by a logger.(ˆÊØ§ûÿÿÿÿ8Õç±ÑÚ1
